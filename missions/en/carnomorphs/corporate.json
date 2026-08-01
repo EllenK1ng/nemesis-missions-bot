@@ -1,0 +1,220 @@
+[
+  {
+    "id": "corp_sample_001",
+    "title": "Sealed Protocol",
+    "text": "Send a signal and at least one engine must be malfunctioning.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_002",
+    "title": "Course Control",
+    "text": "At the end of the game, the ship course is NOT Earth.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_003",
+    "title": "Fire Control",
+    "text": "At the end of the game, there is no more than one Fire marker on the ship.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_004",
+    "title": "Department Sample",
+    "text": "There is a Carnomorph Carcass, a Carnomorph Egg, or a Character Corpse in any Escape Pod Section.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_005",
+    "title": "Lost Witnesses",
+    "text": "At the end of the game, at least one other character did not survive. (Check this objective before the Contamination check.)",
+    "source": "sample",
+    "max_player_count": 3
+  },
+  {
+    "id": "corp_sample_005_carno_4p",
+    "title": "Lost Witnesses",
+    "text": "At the end of the game, at least two other characters did not survive. (Check this objective before the Contamination check.)",
+    "source": "carnomorphs_adapted",
+    "requires_player_number": 4
+  },
+  {
+    "id": "corp_sample_006",
+    "title": "Cargo Priority",
+    "text": "At the end of the game, at least two Escape Pods have not been used.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_007",
+    "title": "Silent Liquidation",
+    "text": "At the end of the game, the Nest is destroyed.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_008",
+    "title": "Evacuation Disruption",
+    "text": "At the end of the game, at least one Escape Pod Section is either completely closed by doors or malfunctioning.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_valdar_001",
+    "title": "Asset Recovery",
+    "text": "The ship reached Earth. The character ended the game in the Hibernatorium.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_002",
+    "title": "Quarantine Course",
+    "text": "The ship reached Mars.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_003",
+    "title": "Venus Contract",
+    "text": "The ship reached Venus.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_004",
+    "title": "Deep Cleanup",
+    "text": "The ship was destroyed or sent into deep space.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_005",
+    "title": "Weapon Sample",
+    "text": "The character ended the game in an Escape Pod with any weapon prototype and at least one ammo (can be obtained only through red item Search).",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_006",
+    "title": "Biomaterial",
+    "text": "The character ended the game in an Escape Pod with a Carnomorph Egg.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_pdf_001",
+    "title": "Field Research",
+    "text": "At least two Carnomorph Adaptations have been removed. Alternative: at the end of the game, you and at least 1 other character survived.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_002",
+    "title": "Autopsy",
+    "text": "Send a signal. The Carnomorph Adaptation in the Carnomorph Carcass slot has been removed.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_custom_008",
+    "title": "Patient Zero",
+    "text": "Send a signal. The character ended the game in an Escape Pod or in the Hibernatorium with a blue Character Corpse token.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_pdf_003",
+    "title": "Vaccine",
+    "text": "Craft the Antidote item and send a signal. At the end of the game, the Antidote is held by the character.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_004",
+    "title": "Security System Test",
+    "text": "Start the self-destruct procedure, wait until the marker reaches 4, then disable the system before the explosion. Send a signal.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_005",
+    "title": "On the Edge",
+    "text": "At the end of the game, there are at least three Mutation markers on your character board.",
+    "source": "carnomorphs_adapted"
+  },
+  {
+    "id": "corp_pdf_006",
+    "title": "Negative Response",
+    "text": "You are the only surviving character who sent a signal. Alternative: send a signal and the ship must be destroyed.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_007",
+    "title": "Doctor on Board",
+    "text": "At the end of the game, no surviving character has an open Serious Wound. Alternative: at the end of the game, each surviving character has no more than 1 Serious Wound.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_008",
+    "title": "SOS",
+    "text": "Send a signal and leave the ship in an Escape Pod.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_custom_001",
+    "title": "Isolation Protocol",
+    "text": "Send a signal. At the end of the game, at least 1 Room on the ship is completely closed (there is a door in every Corridor leading to it).",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_003",
+    "title": "Electroconductivity",
+    "text": "Send a signal. Use the crafted item Taser at least once during the game.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_004",
+    "title": "Specially Authorized",
+    "text": "Your turn must be the final/resolving turn: you are the last character on the ship to enter an Escape Pod or the Hibernatorium.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_006",
+    "title": "VIP Protocol",
+    "text": "The character of player 3 must survive. Alternative: all players survived.",
+    "source": "custom",
+    "requires_player_number": 3
+  },
+  {
+    "id": "corp_custom_007",
+    "title": "What Happened on the Ship Stays on the Ship",
+    "text": "No other character may leave the ship in an Escape Pod. Your character may end the game in an Escape Pod or in the Hibernatorium.\n\nYour matching personal item counts as the Control Key item: for most characters this is the craftable personal item (the one that requires discarding another item to obtain it); for the Captain and Scout, it is the personal item located in the specified Room. This item is single-use and may be used only as described below.\n\nControl Key: once per game, when another character has successfully entered an Escape Pod, you may reveal your Objective card and use this item. You may do this if you are in a Room with a Terminal or in an Escape Pod Section. You may do this even while in Combat. The Escape Pod launch is canceled; that character remains in the Escape Pod Section and performs a Noise roll.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_player_dead_001",
+    "title": "The Right Moment to Strike",
+    "text": "The character of player 1 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style"
+  },
+  {
+    "id": "corp_player_dead_002",
+    "title": "Inconvenient Witness",
+    "text": "The character of player 2 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 2
+  },
+  {
+    "id": "corp_player_dead_003",
+    "title": "Old Grudge",
+    "text": "The character of player 3 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 3
+  },
+  {
+    "id": "corp_player_dead_004",
+    "title": "Aggressive Policy",
+    "text": "The character of player 4 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 4
+  },
+  {
+    "id": "corp_player_dead_005",
+    "title": "Revelation",
+    "text": "The character of player 5 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 5
+  },
+  {
+    "id": "corp_player_dead_006",
+    "title": "Overstaffed",
+    "text": "The character of player 6 must not survive. Alternative: you must be the only survivor.",
+    "source": "custom",
+    "requires_player_number": 6
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pers_sample_001",
+    "title": "Home at Any Cost",
+    "text": "Leave the ship in an Escape Pod before the end of round 7 on the Time Track.",
+    "source": "sample"
+  },
+  {
+    "id": "pers_sample_002",
+    "title": "Last Signal",
+    "text": "Send a signal. At the end of the game, the Comms Room is malfunctioning.",
+    "source": "sample"
+  },
+  {
+    "id": "pers_sample_003",
+    "title": "Backup Plan",
+    "text": "At the end of the game, have at least two crafted items in your possession.",
+    "source": "sample"
+  },
+  {
+    "id": "pers_sample_004",
+    "title": "No Unnecessary Noise",
+    "text": "At the end of the game, have no Serious Wounds.",
+    "source": "sample"
+  },
+  {
+    "id": "pers_sample_006",
+    "title": "Altruist",
+    "text": "All characters survived (before the final Contamination check). Your own character does not have to survive!",
+    "source": "sample"
+  },
+  {
+    "id": "pers_sample_007",
+    "title": "Full Power",
+    "text": "The ship remained intact. All engines are working.",
+    "source": "sample"
+  },
+  {
+    "id": "pers_sample_008",
+    "title": "Important Sample",
+    "text": "Send a signal. At the end of the game, a character has a Slime marker.",
+    "source": "sample"
+  },
+  {
+    "id": "pers_valdar_001",
+    "title": "They Are Just Mindless Beasts",
+    "text": "Two Carnomorph Adaptations have been removed.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_002",
+    "title": "Hunt for Glory",
+    "text": "The Butcher is dead.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_003",
+    "title": "Backup Confirmation",
+    "text": "You and at least one other character sent a signal.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_005",
+    "title": "Burned Nest",
+    "text": "The Nest is destroyed.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_006",
+    "title": "Weakness at the Source",
+    "text": "The Carnomorph Adaptation in the Carnomorph Egg slot has been removed.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_007",
+    "title": "Hypochondriac",
+    "text": "At the end of the game, you have at least 4 medical items.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_008",
+    "title": "Mine!",
+    "text": "At the end of the game, you have at least 1 personal item belonging to another character (their starting weapon or quest item). Leave the ship in an Escape Pod.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_009",
+    "title": "Hoarder",
+    "text": "At the end of the game, you have at least seven items.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_010",
+    "title": "Fallback Option",
+    "text": "The character ended the game in an Escape Pod with the Antidote.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_011",
+    "title": "Holy Fire",
+    "text": "The game ended because a new Fire marker could not be added, or at the end of the game there are at least 4 Fire markers on the ship.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_valdar_012",
+    "title": "I Am Flying Home",
+    "text": "The ship reached Earth. The character ended the game in the Hibernatorium.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "pers_pdf_001",
+    "title": "In Search of Truth",
+    "text": "Send a signal. All Rooms on the ship have been explored.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_pdf_002",
+    "title": "Proper Burial",
+    "text": "Send a signal. The character ended the game in an Escape Pod or in the Hibernatorium with a Character Corpse.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_pdf_003",
+    "title": "Best Friend",
+    "text": "You and at least one other character survived.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_pdf_004",
+    "title": "The Great Hunt",
+    "text": "Send a signal. The ship was destroyed or the Butcher is dead.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_pdf_005",
+    "title": "Stop It Here",
+    "text": "Send a signal. The Nest or the ship is destroyed.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_pdf_007",
+    "title": "Hypercontrol",
+    "text": "Send a signal. You have obtained all character quest items and your starting weapon is in your hands.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_pdf_010",
+    "title": "AI: Source of Evil",
+    "text": "At the end of the game, malfunction markers are in at least three Rooms with Terminals.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "pers_custom_001",
+    "title": "Clean Hands",
+    "text": "End the game with no items in your possession.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_custom_002",
+    "title": "Insurance Case",
+    "text": "End the game with 2 or more Serious Wounds.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_custom_003",
+    "title": "Teamwork",
+    "text": "At the end of the game, at least 2 surviving characters have completed their objectives.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_custom_004",
+    "title": "Claustrophobia",
+    "text": "At the end of the game, at least 8 doors on the ship are destroyed.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_custom_005",
+    "title": "Ahead of Schedule",
+    "text": "Leave the ship in an Escape Pod or enter the Hibernatorium before everyone else.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_custom_006",
+    "title": "Faith",
+    "text": "You may choose this objective only if you have not used a weapon to attack during the game.\n\nUntil the end of the game, you cannot perform the Shoot action, throw grenades or Molotov cocktails, or use cards or items that deal damage to Carnomorphs or characters. You may use a Smoke Grenade.\n\nYou may hold a weapon and use character-specific cards that refer to a weapon if they do not deal damage.\n\nObjective: send a signal and survive.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_player_survive_001",
+    "title": "Living Asset",
+    "text": "The character of player 1 must survive. Alternative: all players survived.",
+    "source": "custom"
+  },
+  {
+    "id": "pers_player_survive_002",
+    "title": "Valuable Witness",
+    "text": "The character of player 2 must survive. Alternative: all players survived.",
+    "source": "custom",
+    "requires_player_number": 2
+  },
+  {
+    "id": "pers_player_survive_004",
+    "title": "Evacuation Priority",
+    "text": "The character of player 4 must survive. Alternative: all players survived.",
+    "source": "custom",
+    "requires_player_number": 4
+  },
+  {
+    "id": "pers_player_survive_005",
+    "title": "Irreplaceable Staff",
+    "text": "The character of player 5 must survive. Alternative: all players survived.",
+    "source": "custom",
+    "requires_player_number": 5
+  },
+  {
+    "id": "pers_player_survive_006",
+    "title": "Last Guarantor",
+    "text": "The character of player 6 must survive. Alternative: all players survived.",
+    "source": "custom",
+    "requires_player_number": 6
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "corp_sample_001",
+    "title": "Sealed Protocol",
+    "text": "Send a signal and at least one engine must be malfunctioning.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_002",
+    "title": "Course Control",
+    "text": "At the end of the game, the ship course is NOT Earth.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_003",
+    "title": "Fire Control",
+    "text": "At the end of the game, there is no more than one Fire marker on the ship.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_004",
+    "title": "Department Sample",
+    "text": "There is an Intruder Egg, an Intruder Carcass, or a Character Corpse in any Escape Pod Section.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_005",
+    "title": "Lost Witnesses",
+    "text": "At the end of the game, at least one other character did not survive.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_006",
+    "title": "Cargo Priority",
+    "text": "At the end of the game, at least two Escape Pods have not been used.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_007",
+    "title": "Silent Liquidation",
+    "text": "At the end of the game, the Nest is destroyed.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_sample_008",
+    "title": "Evacuation Disruption",
+    "text": "At the end of the game, at least one Escape Pod Section is either completely closed by doors or malfunctioning.",
+    "source": "sample"
+  },
+  {
+    "id": "corp_valdar_001",
+    "title": "Asset Recovery",
+    "text": "The ship reached Earth. The character ended the game in the Hibernatorium.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_002",
+    "title": "Quarantine Course",
+    "text": "The ship reached Mars.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_003",
+    "title": "Venus Contract",
+    "text": "The ship reached Venus.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_004",
+    "title": "Deep Cleanup",
+    "text": "The ship was destroyed or sent into deep space.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_005",
+    "title": "Weapon Sample",
+    "text": "The character ended the game in an Escape Pod with any weapon prototype and at least one ammo (can be obtained only through red item Search).",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_valdar_006",
+    "title": "Biomaterial",
+    "text": "The character ended the game in an Escape Pod with an Intruder Egg.",
+    "source": "tesera_valdar_nostromo_paraphrased"
+  },
+  {
+    "id": "corp_pdf_001",
+    "title": "Field Research",
+    "text": "At least two Intruder Weaknesses have been discovered. Alternative: at the end of the game, you and at least 1 other character survived.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_002",
+    "title": "Autopsy",
+    "text": "Send a signal. The Intruder Weakness in the Intruder Carcass slot has been discovered.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_custom_008",
+    "title": "Patient Zero",
+    "text": "Send a signal. The character ended the game in an Escape Pod or in the Hibernatorium with a blue Character Corpse token.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_pdf_003",
+    "title": "Vaccine",
+    "text": "Craft the Antidote item and send a signal. At the end of the game, the Antidote is held by the character.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_004",
+    "title": "Security System Test",
+    "text": "Start the self-destruct procedure, wait until the marker reaches 4, then disable the system before the explosion. Send a signal.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_005",
+    "title": "Incubator",
+    "text": "During the final Contamination check, one surviving character has a Larva (that character may die from contamination if it is not you). Alternative: the signal was sent and an Intruder Egg is in hand.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_006",
+    "title": "Negative Response",
+    "text": "You are the only surviving character who sent a signal. Alternative: send a signal and the ship must be destroyed.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_007",
+    "title": "Doctor on Board",
+    "text": "At the end of the game, no surviving character has an open Serious Wound.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_pdf_008",
+    "title": "SOS",
+    "text": "Send a signal and leave the ship in an Escape Pod.",
+    "source": "tesera_expanded_objectives_pdf_paraphrased"
+  },
+  {
+    "id": "corp_custom_001",
+    "title": "Isolation Protocol",
+    "text": "Send a signal. At the end of the game, at least 6 doors on the ship are closed.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_002",
+    "title": "Rare Specimen",
+    "text": "At the end of the game, there is at least 1 Breeder or Creeper on the ship. Alternative: the Queen is dead.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_003",
+    "title": "Electroconductivity",
+    "text": "Send a signal. Use the crafted item Taser at least once during the game.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_004",
+    "title": "Specially Authorized",
+    "text": "Your turn must be the final/resolving turn: you are the last character on the ship to enter an Escape Pod or the Hibernatorium.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_005",
+    "title": "Sample Storage",
+    "text": "The signal was sent. At the end of the game, at least 1 Room contains at least 4 Heavy Objects (Character Corpse, Intruder Carcass, Intruder Egg).",
+    "source": "custom"
+  },
+  {
+    "id": "corp_custom_006",
+    "title": "VIP Protocol",
+    "text": "The character of player 3 must survive. Alternative: all characters survived.",
+    "source": "custom",
+    "requires_player_number": 3
+  },
+  {
+    "id": "corp_custom_007",
+    "title": "What Happened on the Ship Stays on the Ship",
+    "text": "No other character may leave the ship in an Escape Pod. Your character may end the game in an Escape Pod or in the Hibernatorium.\n\nYour matching personal item counts as the Control Key item: for most characters this is the craftable personal item (the one that requires discarding another item to obtain it); for the Captain and Scout, it is the personal item located in the specified Room. This item is single-use and may be used only as described below.\n\nControl Key: once per game, when another character has successfully entered an Escape Pod, you may reveal your Objective card and use this item. You may do this if you are in a Room with a Terminal or in an Escape Pod Section. You may do this even while in Combat. The Escape Pod launch is canceled; that character remains in the Escape Pod Section and performs a Noise roll.",
+    "source": "custom"
+  },
+  {
+    "id": "corp_special_001",
+    "title": "BFG Prototype",
+    "text": "You may choose this objective only if 1 of your hands is free and your other hand holds your starting weapon, which has not been used yet.\n\nWhen chosen, rotate your starting weapon horizontally: it now occupies both hands. Leave 1 ammo on it. You cannot reload this weapon. This weapon also cannot be traded, dropped, or removed from your hands until the end of the game (when you receive the Serious Wound Arm Injury, ignore its effect).\n\nA shot from this weapon cannot miss. If the target is a Larva, Creeper, or Adult, it dies. If the target is a Breeder or the Queen, the Intruder suffers 6 damage and, if it survives, immediately retreats. If an Intruder dies from this shot, no Carcass is left behind.\n\nPlace 1 ammo on the Time Track 6 spaces ahead. If at the end of a round this weapon is still not empty, move that ammo 1 space farther. When the Time marker reaches this ammo, add it to your weapon.\n\nObjective: fire this weapon 2 times, send a signal, and survive.",
+    "source": "custom",
+    "special": "revealed_weapon_prototype"
+  },
+  {
+    "id": "corp_special_002",
+    "title": "Android",
+    "text": "You do not receive Contamination cards and cannot receive a Larva. You do not suffer damage from fire.\n\nYou cannot heal Light or Serious Wounds by any means except Duct Tape. For you, Duct Tape can: heal all Light Wounds OR dress one Serious Wound. Serious Wounds cannot be healed. You cannot die from the special effects of the Bite and Tail Strike cards.\n\nWhen revealed, place maintenance markers on spaces 10 and 5 of the Time Track. When the Time marker reaches a maintenance marker, on your next turn you must perform the Rest action, then discard all cards from your hand and pass immediately. If you cannot or do not want to Rest, receive 1 Serious Wound.\n\nObjective: the ship reached Earth.",
+    "source": "custom",
+    "special": "android"
+  },
+  {
+    "id": "corp_special_003",
+    "title": "Experimental Unit",
+    "text": "When chosen, immediately reveal this objective to all players. Take the figure of an unused character without its colored base and place it in the Room with your character. This figure counts as a prototype robot under your control.\n\nYou control your character and the robot using one shared Action deck. On each action during your turn, choose who performs it: your character or the robot. The robot pays action costs with cards from your hand.\n\nThe robot can move, perform basic Room actions, and perform a built-in attack. When moving, the robot performs Noise rolls by normal rules. It counts as a separate figure for Intruder appearance and behavior.\n\nThe robot cannot Search (including the Storage Room action), Craft, pick up or use items, carry Heavy Objects, heal characters, or launch an Escape Pod by itself.\n\nThe robot built-in attack follows normal attack rules: pay the action cost and roll the Combat die. Ammo is not spent. On a miss, place 1 damage marker next to the robot.\n\nThe robot does not receive Contamination cards, cannot receive a Larva, and does not suffer damage from fire.\n\nIf the robot would receive a Light Wound, place 1 damage marker next to it. If it would receive a Serious Wound, place 3 damage markers. After any damage is received, check the robot durability: reveal 2 Intruder Attack cards and add their durability values. If at least one card shows Retreat, the robot does not break. If the total durability is equal to or lower than the number of damage markers on the robot, it breaks completely.\n\nA completely broken robot is laid on its side. It can be picked up and carried as a Heavy Object. A completely broken robot cannot be repaired.\n\nWhile in the same Room as the robot, your character may use Tools or Duct Tape to remove 2 damage markers from the robot.\n\nThe Rest card can be played on the robot to put it into sleep mode. While the robot sleeps, it does not make noise and is completely ignored by Intruders. A sleeping robot can be picked up and carried as a Heavy Object. To wake the robot, perform any available action with it, discarding 1 additional card above the normal cost.\n\nThe robot can be placed in an Escape Pod while functional or completely broken. After that, it cannot be taken out of the Escape Pod (including when an Intruder appears in the Escape Pod Section; the robot stays inside). However, the robot cannot launch the Escape Pod by itself.\n\nObjective: the signal was sent. You and your robot successfully left the ship in Escape Pods (the same one or different ones).",
+    "source": "custom",
+    "special": "support_robot",
+    "max_player_count": 5
+  },
+  {
+    "id": "corp_player_dead_001",
+    "title": "The Right Moment to Strike",
+    "text": "The character of player 1 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style"
+  },
+  {
+    "id": "corp_player_dead_002",
+    "title": "Inconvenient Witness",
+    "text": "The character of player 2 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 2
+  },
+  {
+    "id": "corp_player_dead_003",
+    "title": "Old Grudge",
+    "text": "The character of player 3 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 3
+  },
+  {
+    "id": "corp_player_dead_004",
+    "title": "Aggressive Policy",
+    "text": "The character of player 4 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 4
+  },
+  {
+    "id": "corp_player_dead_005",
+    "title": "Revelation",
+    "text": "The character of player 5 must not survive. Alternative: you must be the only survivor.",
+    "source": "base_objective_style",
+    "requires_player_number": 5
+  },
+  {
+    "id": "corp_player_dead_006",
+    "title": "Overstaffed",
+    "text": "The character of player 6 must not survive. Alternative: you must be the only survivor.",
+    "source": "custom",
+    "requires_player_number": 6
+  }
+]
