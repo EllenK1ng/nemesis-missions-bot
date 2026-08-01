@@ -1,0 +1,10 @@
+.env
+config.json
+data/state.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
